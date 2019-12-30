@@ -9,7 +9,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 
-namespace MyEverNote.WebApp.Controllers
+namespace MyEverNote.WebApp.Controllers//ülkü
 {
     public class HomeController : Controller
     {
